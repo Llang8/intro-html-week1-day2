@@ -1,0 +1,11 @@
+.card {
+    padding: 25px;
+    border: 1px solid black;
+}
+
+.flex-container {
+    display: flex;
+    /* align-items: center; */
+    flex-direction: row-reverse;
+    justify-content: center;
+}
